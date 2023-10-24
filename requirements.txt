@@ -1,0 +1,3 @@
+tkinter
+PyMuPDF==1.18.16
+pillow==8.0.1
